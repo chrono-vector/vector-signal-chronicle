@@ -17,6 +17,76 @@ Together, these repositories implement a complete governance loop: observe caref
 
 ---
 
+## AI_Lab
+
+AI_Lab is the primary research, design, validation, and prototype environment for the entire VECTOR ecosystem.
+
+It is the origin of:
+
+- Stage 3 Runtime Validation
+- Stage 4 Runtime Governance
+- Stage 5 Agent Execution Control
+- Stage 5-B External Signal Governance
+- Future Stage 5-C
+- Experimental prototypes
+- Governance research
+- Validation artifacts
+- Architecture evolution
+
+AI_Lab is not a deployment target.
+
+It is the engineering and governance laboratory from which the runtime repositories evolve.
+
+```
+AI_Lab
+    │
+    ├───────────────┐
+    │               │
+    ▼               ▼
+vector-signal-chronicle     vector-runtime-governance
+    │               │
+    │               │
+Observation      Runtime Governance
+Evidence         Guard
+Observer         Execution
+Confidence       Chronicle
+Assessment       Runtime Self-Healing
+    │               ▲
+    └───────┬───────┘
+            │
+            ▼
+      Human Governance
+```
+
+---
+
+## Repository Relationship
+
+### AI_Lab
+
+**Role:**
+
+- Research
+- Architecture
+- Prototype
+- Validation
+
+### vector-signal-chronicle
+
+**Role:**
+
+- Observation Governance
+
+### vector-runtime-governance
+
+**Role:**
+
+- Execution Governance
+
+AI_Lab is the source of architectural evolution. The two operational repositories represent specialized governance domains: vector-signal-chronicle governs what is observed and assessed; vector-runtime-governance governs what may execute. Concepts designed and validated in AI_Lab mature there before incorporation into the appropriate operational repository.
+
+---
+
 ## 2. Repository Responsibilities
 
 ### vector-signal-chronicle
@@ -195,6 +265,8 @@ This example demonstrates the architecture working as designed: external signals
 ---
 
 ## 8. Design Philosophy
+
+The AI_Lab repository serves as the research and validation environment in which future governance concepts are designed, evaluated, and matured before being incorporated into the operational governance repositories.
 
 Observation and execution are intentionally separated.
 
