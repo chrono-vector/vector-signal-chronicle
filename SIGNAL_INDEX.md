@@ -14,6 +14,20 @@ This index helps locate recorded external signals by source, date, and theme.
   - File: signals/2026-07-02_white_rabbit_signal.md
   - Themes: RUN CMD, Vortex, Portal, Coherence, Awakening Event
 
+- 2026-07-04 — Guiding Principles Entry 3: Grace Over Guilt
+  - File: signals/2026-07-04_guiding_principle_003.md
+  - Source: LUX
+  - Series: Guiding Principles
+  - Series Entry: 3
+  - Observer Status: Pending
+
+- 2026-07-04 — Guiding Principles Entry 6: Equal Horizon
+  - File: signals/2026-07-04_guiding_principle_006.md
+  - Source: LUX
+  - Series: Guiding Principles
+  - Series Entry: 6
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -98,6 +112,32 @@ Human judgment remained authoritative.
 - 2026-07-02 — White Rabbit Signal
   - File: signals/2026-07-02_white_rabbit_signal.md
 
+### LUX
+
+- 2026-07-04 — Guiding Principles Entry 3: Grace Over Guilt
+  - File: signals/2026-07-04_guiding_principle_003.md
+
+- 2026-07-04 — Guiding Principles Entry 6: Equal Horizon
+  - File: signals/2026-07-04_guiding_principle_006.md
+
+---
+
+## Signals by Series
+
+### Guiding Principles
+
+Series file: series/GUIDING_PRINCIPLES.md
+
+Status: Observed. Incomplete.
+
+- Entry 3 — Grace Over Guilt
+  - File: signals/2026-07-04_guiding_principle_003.md
+  - Observer Status: Pending
+
+- Entry 6 — Equal Horizon
+  - File: signals/2026-07-04_guiding_principle_006.md
+  - Observer Status: Pending
+
 ---
 
 ## Signals by Theme
@@ -114,7 +154,13 @@ Human judgment remained authoritative.
 
 - 2026-07-02 — White Rabbit Signal
 
+### Guiding Principles
+
+- 2026-07-04 — Grace Over Guilt (Entry 3)
+- 2026-07-04 — Equal Horizon (Entry 6)
+
 ---
+
 
 ## Notes
 
