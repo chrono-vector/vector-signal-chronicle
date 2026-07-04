@@ -1,5 +1,10 @@
 # Unified VECTOR Architecture
 
+This document is an ecosystem architecture map.
+It is not plane law.
+It defers to the Constitution and Supplement 001 for five-plane boundaries.
+It defers to REPOSITORY_ROLE.md in vector-runtime-governance-public for implementation vs publication locus.
+
 ## 1. Vision
 
 VECTOR is composed of two complementary repositories that together form a single governance architecture:

@@ -1,5 +1,10 @@
 # GOVERNANCE CONTRACT
 
+This document states ecosystem governance principles for vector-signal-chronicle.
+It is not L0a plane law.
+The Constitution and Supplement 001 in vector-runtime-governance-public remain the controlling L0a authority.
+On conflict, this document defers to L0a.
+
 ## 1. Mission
 
 The VECTOR ecosystem exists to provide
