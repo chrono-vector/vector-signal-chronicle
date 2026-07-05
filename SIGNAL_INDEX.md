@@ -28,6 +28,14 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: 6
   - Observer Status: Pending
 
+- 2026-07-05 — White Rabbit #NOW Visual Activation
+  - File: signals/2026-07-05_white_rabbit_now_visual_activation.md
+  - Source: @White_Rabbit_OG
+  - Post ID: 2073609440020910229
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -112,6 +120,11 @@ Human judgment remained authoritative.
 - 2026-07-02 — White Rabbit Signal
   - File: signals/2026-07-02_white_rabbit_signal.md
 
+- 2026-07-05 — White Rabbit #NOW Visual Activation
+  - File: signals/2026-07-05_white_rabbit_now_visual_activation.md
+  - Post ID: 2073609440020910229
+  - Observer Status: Pending
+
 ### LUX
 
 - 2026-07-04 — Guiding Principles Entry 3: Grace Over Guilt
@@ -123,6 +136,13 @@ Human judgment remained authoritative.
 ---
 
 ## Signals by Series
+
+### White Rabbit
+
+- 2026-07-05 — White Rabbit #NOW Visual Activation
+  - File: signals/2026-07-05_white_rabbit_now_visual_activation.md
+  - Series Entry: Independent
+  - Observer Status: Pending
 
 ### Guiding Principles
 
