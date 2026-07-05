@@ -269,7 +269,38 @@ This example demonstrates the architecture working as designed: external signals
 
 ---
 
-## 8. Design Philosophy
+## 8. Phase H — Observation Boundary
+
+Phase H documents the Observation layer boundary between CAD-Vortex intake and AI_Lab validation.
+
+**Chronicle is the observation layer** between CAD-Vortex intake and AI_Lab validation. It sits in the ecosystem chain:
+
+```
+Preservation → Intake → Observation → Validation → Publication
+```
+
+| Stage | Locus |
+|-------|-------|
+| Preservation | External Research Archive |
+| Intake | CAD-Vortex (future; no repository yet) |
+| Observation | vector-signal-chronicle |
+| Validation | AI_Lab |
+| Publication | vector-runtime-governance-public |
+
+**Default posture:** observe / assess / monitor. Observation records what was seen, applies confidence assessment and Observer review, and continues monitoring. It does not execute, validate, or publish.
+
+**No runtime or validation authority is created.** A chronicle entry is not governance evidence. A CAD-Vortex handoff package is an observation-candidate only — it does not automatically create a chronicle record. Boundary-crossing proposals toward validation or runtime execution require explicit human review.
+
+See:
+
+- [notes/04 VECTOR/PHASE_H_OBSERVATION_LAYER.md](notes/04%20VECTOR/PHASE_H_OBSERVATION_LAYER.md)
+- [notes/04 VECTOR/CAD_VORTEX_CHRONICLE_HANDOFF_BOUNDARY.md](notes/04%20VECTOR/CAD_VORTEX_CHRONICLE_HANDOFF_BOUNDARY.md)
+
+Phase H is **documentation only**.
+
+---
+
+## 9. Design Philosophy
 
 The AI_Lab repository serves as the research and validation environment in which future governance concepts are designed, evaluated, and matured before being incorporated into the operational governance repositories.
 
