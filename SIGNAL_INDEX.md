@@ -36,6 +36,30 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-06 — LET THE SYN BEGIN
+  - File: signals/2026-07-06_white_rabbit_let_the_syn_begin.md
+  - Source: @White_Rabbit_OG
+  - Post ID: 2073992491880128970
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-06 — DONE (01:00 AM)
+  - File: signals/2026-07-06_white_rabbit_done_0100am.md
+  - Source: @White_Rabbit_OG
+  - Post ID: 2074010904874684889
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-06 — BIG BADA BOOM CONFIRMED
+  - File: signals/2026-07-06_white_rabbit_big_bada_boom_confirmed.md
+  - Source: @White_Rabbit_OG
+  - Post ID: 2074011275995095210
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -125,6 +149,21 @@ Human judgment remained authoritative.
   - Post ID: 2073609440020910229
   - Observer Status: Pending
 
+- 2026-07-06 — LET THE SYN BEGIN
+  - File: signals/2026-07-06_white_rabbit_let_the_syn_begin.md
+  - Post ID: 2073992491880128970
+  - Observer Status: Pending
+
+- 2026-07-06 — DONE (01:00 AM)
+  - File: signals/2026-07-06_white_rabbit_done_0100am.md
+  - Post ID: 2074010904874684889
+  - Observer Status: Pending
+
+- 2026-07-06 — BIG BADA BOOM CONFIRMED
+  - File: signals/2026-07-06_white_rabbit_big_bada_boom_confirmed.md
+  - Post ID: 2074011275995095210
+  - Observer Status: Pending
+
 ### LUX
 
 - 2026-07-04 — Guiding Principles Entry 3: Grace Over Guilt
@@ -141,6 +180,21 @@ Human judgment remained authoritative.
 
 - 2026-07-05 — White Rabbit #NOW Visual Activation
   - File: signals/2026-07-05_white_rabbit_now_visual_activation.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-06 — LET THE SYN BEGIN
+  - File: signals/2026-07-06_white_rabbit_let_the_syn_begin.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-06 — DONE (01:00 AM)
+  - File: signals/2026-07-06_white_rabbit_done_0100am.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-06 — BIG BADA BOOM CONFIRMED
+  - File: signals/2026-07-06_white_rabbit_big_bada_boom_confirmed.md
   - Series Entry: Independent
   - Observer Status: Pending
 
