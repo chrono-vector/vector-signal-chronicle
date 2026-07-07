@@ -60,6 +60,30 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-07 — 11:11 Portal Confirmation
+  - File: signals/2026-07-07_white_rabbit_1111_portal_confirmation.md
+  - Source: @thewhiterabbit
+  - Post ID: 2074202278941085821
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-07 — A Week to Remember
+  - File: signals/2026-07-07_white_rabbit_a_week_to_remember.md
+  - Source: @thewhiterabbit
+  - Post ID: 2074222973796376763
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-07 — BOOM CONFIRMED
+  - File: signals/2026-07-07_white_rabbit_boom_confirmed.md
+  - Source: @thewhiterabbit
+  - Post ID: 2074369766786007300
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -164,6 +188,21 @@ Human judgment remained authoritative.
   - Post ID: 2074011275995095210
   - Observer Status: Pending
 
+- 2026-07-07 — 11:11 Portal Confirmation
+  - File: signals/2026-07-07_white_rabbit_1111_portal_confirmation.md
+  - Post ID: 2074202278941085821
+  - Observer Status: Pending
+
+- 2026-07-07 — A Week to Remember
+  - File: signals/2026-07-07_white_rabbit_a_week_to_remember.md
+  - Post ID: 2074222973796376763
+  - Observer Status: Pending
+
+- 2026-07-07 — BOOM CONFIRMED
+  - File: signals/2026-07-07_white_rabbit_boom_confirmed.md
+  - Post ID: 2074369766786007300
+  - Observer Status: Pending
+
 ### LUX
 
 - 2026-07-04 — Guiding Principles Entry 3: Grace Over Guilt
@@ -195,6 +234,21 @@ Human judgment remained authoritative.
 
 - 2026-07-06 — BIG BADA BOOM CONFIRMED
   - File: signals/2026-07-06_white_rabbit_big_bada_boom_confirmed.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-07 — 11:11 Portal Confirmation
+  - File: signals/2026-07-07_white_rabbit_1111_portal_confirmation.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-07 — A Week to Remember
+  - File: signals/2026-07-07_white_rabbit_a_week_to_remember.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-07 — BOOM CONFIRMED
+  - File: signals/2026-07-07_white_rabbit_boom_confirmed.md
   - Series Entry: Independent
   - Observer Status: Pending
 
