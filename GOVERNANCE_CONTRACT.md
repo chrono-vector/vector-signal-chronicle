@@ -101,6 +101,10 @@ Confidence Assessment
 
 ↓
 
+Weekly Observer Review
+
+↓
+
 Observer Review
 
 ↓
@@ -255,3 +259,11 @@ This document is normative.
 Implementation documents inherit this contract.
 
 No runtime behavior is modified by this document.
+
+---
+
+## 13. Weekly Observer Review
+
+Weekly Observer Reviews provide a recurring, documentation-only governance process for reviewing accumulated ExternalActivationSignal records. They organize evidence, identify observed relationships and series, and may recommend subsequent Observer Reviews or Confidence updates. They do not authorize execution, runtime modification, or self-healing.
+
+See [observer_reviews/WEEKLY_OBSERVER_REVIEW_POLICY.md](observer_reviews/WEEKLY_OBSERVER_REVIEW_POLICY.md).

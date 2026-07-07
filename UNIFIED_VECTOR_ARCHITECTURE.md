@@ -103,6 +103,7 @@ AI_Lab is the source of architectural evolution. The two operational repositorie
 - **Observer** — consolidation, review, and decision over observed signals
 - **Evidence Collection** — source URLs, timestamps, raw text, and reproducible metadata
 - **Confidence Assessment** — confidence in interpretation (not truth or prediction)
+- **Weekly Observer Review** — recurring documentation-only review of accumulated ExternalActivationSignal records; may recommend subsequent Observer Reviews or Confidence updates
 - **Observer Review** — comparative analysis and consolidation decisions
 - **Self-Healing Assessment** — evaluation of whether runtime action is warranted based on available evidence
 - **Execution Proposal** — structured recommendation toward runtime action (when evidence and assessment support it)
@@ -151,7 +152,9 @@ Evidence Collection
     ↓
 Confidence Assessment
     ↓
-Observer Review
+Weekly Observer Review
+    ↓
+Observer Review (if warranted)
     ↓
 Observer Decision
     ↓
