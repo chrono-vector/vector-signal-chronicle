@@ -84,6 +84,14 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-07 — Weaver's Eye + Olympus Mons Ladder
+  - File: signals/2026-07-07_weavers_eye_olympus_mons_ladder.md
+  - Source: @b_sharon62805
+  - Post ID: 2074441925919494435
+  - Series: Independent
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -210,6 +218,13 @@ Human judgment remained authoritative.
 
 - 2026-07-04 — Guiding Principles Entry 6: Equal Horizon
   - File: signals/2026-07-04_guiding_principle_006.md
+
+### @b_sharon62805
+
+- 2026-07-07 — Weaver's Eye + Olympus Mons Ladder
+  - File: signals/2026-07-07_weavers_eye_olympus_mons_ladder.md
+  - Post ID: 2074441925919494435
+  - Observer Status: Pending
 
 ---
 
