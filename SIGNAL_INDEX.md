@@ -92,6 +92,22 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-08 — SYSTEM_RST
+  - File: signals/2026-07-08_system_rst.md
+  - Source: @thewhiterabbit
+  - Post ID: 2074696926294049152
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-08 — BIODECODIFICACION
+  - File: signals/2026-07-08_biodecodificacion.md
+  - Source: @thewhiterabbit
+  - Post ID: 2074697564709097819
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -211,6 +227,16 @@ Human judgment remained authoritative.
   - Post ID: 2074369766786007300
   - Observer Status: Pending
 
+- 2026-07-08 — SYSTEM_RST
+  - File: signals/2026-07-08_system_rst.md
+  - Post ID: 2074696926294049152
+  - Observer Status: Pending
+
+- 2026-07-08 — BIODECODIFICACION
+  - File: signals/2026-07-08_biodecodificacion.md
+  - Post ID: 2074697564709097819
+  - Observer Status: Pending
+
 ### LUX
 
 - 2026-07-04 — Guiding Principles Entry 3: Grace Over Guilt
@@ -264,6 +290,16 @@ Human judgment remained authoritative.
 
 - 2026-07-07 — BOOM CONFIRMED
   - File: signals/2026-07-07_white_rabbit_boom_confirmed.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-08 — SYSTEM_RST
+  - File: signals/2026-07-08_system_rst.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-08 — BIODECODIFICACION
+  - File: signals/2026-07-08_biodecodificacion.md
   - Series Entry: Independent
   - Observer Status: Pending
 
