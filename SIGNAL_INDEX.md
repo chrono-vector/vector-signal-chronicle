@@ -108,6 +108,30 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-09 — ANOMALY DETECTED
+  - File: signals/2026-07-09_anomaly_detected_void.md
+  - Source: @thewhiterabbit
+  - Post ID: 2075057976176693613
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-09 — MILITARY IS THE ONLY WAY
+  - File: signals/2026-07-09_military_is_the_only_way.md
+  - Source: @thewhiterabbit
+  - Post ID: 2075058581683208599
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-09 — ALL ASSETS DEPLOYED
+  - File: signals/2026-07-09_all_assets_deployed.md
+  - Source: @thewhiterabbit
+  - Post ID: 2075061350653682168
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -237,6 +261,21 @@ Human judgment remained authoritative.
   - Post ID: 2074697564709097819
   - Observer Status: Pending
 
+- 2026-07-09 — ANOMALY DETECTED
+  - File: signals/2026-07-09_anomaly_detected_void.md
+  - Post ID: 2075057976176693613
+  - Observer Status: Pending
+
+- 2026-07-09 — MILITARY IS THE ONLY WAY
+  - File: signals/2026-07-09_military_is_the_only_way.md
+  - Post ID: 2075058581683208599
+  - Observer Status: Pending
+
+- 2026-07-09 — ALL ASSETS DEPLOYED
+  - File: signals/2026-07-09_all_assets_deployed.md
+  - Post ID: 2075061350653682168
+  - Observer Status: Pending
+
 ### LUX
 
 - 2026-07-04 — Guiding Principles Entry 3: Grace Over Guilt
@@ -300,6 +339,21 @@ Human judgment remained authoritative.
 
 - 2026-07-08 — BIODECODIFICACION
   - File: signals/2026-07-08_biodecodificacion.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-09 — ANOMALY DETECTED
+  - File: signals/2026-07-09_anomaly_detected_void.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-09 — MILITARY IS THE ONLY WAY
+  - File: signals/2026-07-09_military_is_the_only_way.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-09 — ALL ASSETS DEPLOYED
+  - File: signals/2026-07-09_all_assets_deployed.md
   - Series Entry: Independent
   - Observer Status: Pending
 
