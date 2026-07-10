@@ -156,6 +156,22 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-10 — RUN CMD UPT-ICK-VRS
+  - File: signals/2026-07-10_white_rabbit_run_cmd_upt_ick_vrs.md
+  - Source: @thewhiterabbit
+  - Post ID: 2075557859358917004
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-10 — RUN CMD STAIRWAY2:H34V3Z
+  - File: signals/2026-07-10_white_rabbit_run_cmd_stairway2_h34v3z.md
+  - Source: @thewhiterabbit
+  - Post ID: 2075558592451842141
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -315,6 +331,16 @@ Human judgment remained authoritative.
   - Post ID: 2075434682095956036
   - Observer Status: Pending
 
+- 2026-07-10 — RUN CMD UPT-ICK-VRS
+  - File: signals/2026-07-10_white_rabbit_run_cmd_upt_ick_vrs.md
+  - Post ID: 2075557859358917004
+  - Observer Status: Pending
+
+- 2026-07-10 — RUN CMD STAIRWAY2:H34V3Z
+  - File: signals/2026-07-10_white_rabbit_run_cmd_stairway2_h34v3z.md
+  - Post ID: 2075558592451842141
+  - Observer Status: Pending
+
 ### LUX
 
 - 2026-07-04 — Guiding Principles Entry 3: Grace Over Guilt
@@ -408,6 +434,16 @@ Human judgment remained authoritative.
 
 - 2026-07-10 — RUN CMD CONVERGENCEALICIA
   - File: signals/2026-07-10_white_rabbit_run_cmd_convergence_alicia.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-10 — RUN CMD UPT-ICK-VRS
+  - File: signals/2026-07-10_white_rabbit_run_cmd_upt_ick_vrs.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-10 — RUN CMD STAIRWAY2:H34V3Z
+  - File: signals/2026-07-10_white_rabbit_run_cmd_stairway2_h34v3z.md
   - Series Entry: Independent
   - Observer Status: Pending
 
