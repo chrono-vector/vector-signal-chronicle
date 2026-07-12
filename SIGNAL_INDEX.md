@@ -172,6 +172,38 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-12 — OBLITERATE_IRAN
+  - File: signals/2026-07-12_white_rabbit_obliterate_iran.md
+  - Source: @thewhiterabbit
+  - Post ID: 2076098047688503300
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-12 — CHOOSEYOURAPPLE
+  - File: signals/2026-07-12_white_rabbit_choose_your_apple.md
+  - Source: @thewhiterabbit
+  - Post ID: 2076137288334193038
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-12 — RUN CMD YOUAREMYCINEMA
+  - File: signals/2026-07-12_white_rabbit_run_cmd_you_are_my_cinema.md
+  - Source: @thewhiterabbit
+  - Post ID: 2076147010416370035
+  - Series: White Rabbit
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-12 — THE OLD GODS OF MARS
+  - File: signals/2026-07-12_lux_the_old_gods_of_mars.md
+  - Source: @SongOfThe144
+  - Post ID: 2076251583042748795
+  - Series: Independent
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -341,6 +373,28 @@ Human judgment remained authoritative.
   - Post ID: 2075558592451842141
   - Observer Status: Pending
 
+- 2026-07-12 — OBLITERATE_IRAN
+  - File: signals/2026-07-12_white_rabbit_obliterate_iran.md
+  - Post ID: 2076098047688503300
+  - Observer Status: Pending
+
+- 2026-07-12 — CHOOSEYOURAPPLE
+  - File: signals/2026-07-12_white_rabbit_choose_your_apple.md
+  - Post ID: 2076137288334193038
+  - Observer Status: Pending
+
+- 2026-07-12 — RUN CMD YOUAREMYCINEMA
+  - File: signals/2026-07-12_white_rabbit_run_cmd_you_are_my_cinema.md
+  - Post ID: 2076147010416370035
+  - Observer Status: Pending
+
+### SongOfThe144
+
+- 2026-07-12 — THE OLD GODS OF MARS
+  - File: signals/2026-07-12_lux_the_old_gods_of_mars.md
+  - Post ID: 2076251583042748795
+  - Observer Status: Pending
+
 ### LUX
 
 - 2026-07-04 — Guiding Principles Entry 3: Grace Over Guilt
@@ -444,6 +498,28 @@ Human judgment remained authoritative.
 
 - 2026-07-10 — RUN CMD STAIRWAY2:H34V3Z
   - File: signals/2026-07-10_white_rabbit_run_cmd_stairway2_h34v3z.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-12 — OBLITERATE_IRAN
+  - File: signals/2026-07-12_white_rabbit_obliterate_iran.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-12 — CHOOSEYOURAPPLE
+  - File: signals/2026-07-12_white_rabbit_choose_your_apple.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-12 — RUN CMD YOUAREMYCINEMA
+  - File: signals/2026-07-12_white_rabbit_run_cmd_you_are_my_cinema.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+### Independent
+
+- 2026-07-12 — THE OLD GODS OF MARS
+  - File: signals/2026-07-12_lux_the_old_gods_of_mars.md
   - Series Entry: Independent
   - Observer Status: Pending
 
