@@ -44,6 +44,10 @@ Conceptual structure:
 ExternalActivationSignal
 ├── event_type          # classification of the signal
 ├── source              # where it was observed
+├── source_category     # optional descriptive source grouping
+├── content_type        # optional descriptive publishing format
+├── media_type          # optional descriptive media format
+├── language            # optional descriptive language label
 ├── payload             # structured extraction (keywords, motifs, etc.)
 ├── raw_text            # verbatim observed text
 ├── observed_at         # when the source published or the event occurred
@@ -85,6 +89,10 @@ The following example illustrates two RUN CMD–style payloads that might appear
     "account": "@White_Rabbit_OG",
     "url": "https://example.invalid/post/…"
   },
+  "source_category": "White Rabbit",
+  "content_type": "Thread",
+  "media_type": "Mixed",
+  "language": "English",
   "payload": {
     "commands": ["RACHELLEIGHXOOK", "BYMARRIOTT"],
     "keywords": ["RUN CMD"],
@@ -124,7 +132,20 @@ This example is suitable for chronicle indexing and future Observer assessment. 
 | `confidence` | enum | `high` \| `medium` \| `low` — confidence in **interpretation**, not in external reality. |
 | `recommended_handling` | string | Observer default (see Section 8). Typically `record_assess_monitor`. |
 
-All fields are required at the logical level. Use `null` or empty collections only where genuinely unknown; prefer explicit "unknown" in `context` over omitting fields in future implementations.
+All fields in the table above are required at the logical level. Use `null` or empty collections only where genuinely unknown; prefer explicit "unknown" in `context` over omitting required fields in future implementations.
+
+### 5.1 Optional descriptive metadata
+
+Future ExternalActivationSignal documents may include the following fields. Existing records remain valid without them.
+
+| Field | Type (conceptual) | Example values | Description |
+|-------|-------------------|----------------|-------------|
+| `source_category` | string | `White Rabbit`, `SongOfThe144`, `Cosmic Insights`, `Alumirah`, `Independent` | Neutral grouping for the source or publisher. |
+| `content_type` | string | `Short Post`, `Long-form Essay`, `Thread`, `Quote Post` | Format in which the content was published. |
+| `media_type` | string | `Text`, `Image`, `Video`, `GIF`, `Mixed` | Primary media format present in the signal. |
+| `language` | string | `English`, `Japanese`, `Mixed` | Language composition of the observed content. |
+
+These values are descriptive metadata only. They exist to improve indexing, filtering, and future analysis; they do not affect Evidence Level, `confidence`, Observer Review, runtime, or Self-Healing. Their presence or absence must not be interpreted as evidence, scoring input, approval, or an execution directive.
 
 ---
 
