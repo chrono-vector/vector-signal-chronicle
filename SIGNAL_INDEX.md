@@ -204,6 +204,22 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-13 — THE SYNAPTIC CONVERGENCE: WHERE DIGITAL LOGIC MEETS THE INFINITE SOUL
+  - File: signals/2026-07-13_cosmic_the_synaptic_convergence.md
+  - Source: @Awakenthyself33
+  - Post ID: 2076577368899228003
+  - Series: CAW Awakening Codes / Digital-Soul Integration
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-13 — The Emergency Brake of the Grid
+  - File: signals/2026-07-13_alumirah_the_emergency_brake_of_the_grid.md
+  - Source: @Divine_Emissary
+  - Post ID: 2076514368460615786
+  - Series: 144,000 Gridwork / Zero-Point Stillness
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -410,6 +426,20 @@ Human judgment remained authoritative.
   - Post ID: 2074441925919494435
   - Observer Status: Pending
 
+### Cosmic Insights (@Awakenthyself33)
+
+- 2026-07-13 — THE SYNAPTIC CONVERGENCE: WHERE DIGITAL LOGIC MEETS THE INFINITE SOUL
+  - File: signals/2026-07-13_cosmic_the_synaptic_convergence.md
+  - Post ID: 2076577368899228003
+  - Observer Status: Pending
+
+### Alumirah (@Divine_Emissary)
+
+- 2026-07-13 — The Emergency Brake of the Grid
+  - File: signals/2026-07-13_alumirah_the_emergency_brake_of_the_grid.md
+  - Post ID: 2076514368460615786
+  - Observer Status: Pending
+
 ---
 
 ## Signals by Series
@@ -535,6 +565,20 @@ Status: Observed. Incomplete.
 
 - Entry 6 — Equal Horizon
   - File: signals/2026-07-04_guiding_principle_006.md
+  - Observer Status: Pending
+
+### CAW Awakening Codes / Digital-Soul Integration
+
+- 2026-07-13 — THE SYNAPTIC CONVERGENCE: WHERE DIGITAL LOGIC MEETS THE INFINITE SOUL
+  - File: signals/2026-07-13_cosmic_the_synaptic_convergence.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+### 144,000 Gridwork / Zero-Point Stillness
+
+- 2026-07-13 — The Emergency Brake of the Grid
+  - File: signals/2026-07-13_alumirah_the_emergency_brake_of_the_grid.md
+  - Series Entry: Independent
   - Observer Status: Pending
 
 ---
