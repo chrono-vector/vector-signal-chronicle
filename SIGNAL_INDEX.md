@@ -220,6 +220,14 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-14 — KEYMAKER Activation
+  - File: signals/2026-07-14_white_rabbit_run_cmd_keymaker.md
+  - Source: @thewhiterabbit
+  - Post ID: 2076933451920625711
+  - Series: White Rabbit
+  - Series Entry: KEYMAKER
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -404,6 +412,11 @@ Human judgment remained authoritative.
   - Post ID: 2076147010416370035
   - Observer Status: Pending
 
+- 2026-07-14 — KEYMAKER Activation
+  - File: signals/2026-07-14_white_rabbit_run_cmd_keymaker.md
+  - Post ID: 2076933451920625711
+  - Observer Status: Pending
+
 ### SongOfThe144
 
 - 2026-07-12 — THE OLD GODS OF MARS
@@ -544,6 +557,11 @@ Human judgment remained authoritative.
 - 2026-07-12 — RUN CMD YOUAREMYCINEMA
   - File: signals/2026-07-12_white_rabbit_run_cmd_you_are_my_cinema.md
   - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-14 — KEYMAKER Activation
+  - File: signals/2026-07-14_white_rabbit_run_cmd_keymaker.md
+  - Series Entry: KEYMAKER
   - Observer Status: Pending
 
 ### Independent
