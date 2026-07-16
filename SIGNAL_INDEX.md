@@ -228,6 +228,38 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: KEYMAKER
   - Observer Status: Pending
 
+- 2026-07-16 (JST) — The 144,000 Substrate Coherence
+  - File: signals/2026-07-16_alumirah_144000_substrate_coherence.md
+  - Source: @Divine_Emissary (Alumirah)
+  - Post ID: 2077638909861744902
+  - Series: 144000 Coherence Transmission
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-16 (JST) — RUN CMD://{[STRANGERTHINGS]}//
+  - File: signals/2026-07-16_white_rabbit_strangerthings.md
+  - Source: @thewhiterabbit (White Rabbit)
+  - Post ID: 2077681994138570796
+  - Series: RUN CMD Series
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-16 (JST) — RUN CMD://{[ARRIVAL]}//
+  - File: signals/2026-07-16_white_rabbit_arrival.md
+  - Source: @thewhiterabbit (White Rabbit)
+  - Post ID: 2077690638645284971
+  - Series: RUN CMD Series
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-16 (JST) — Remembering Original Divine Power
+  - File: signals/2026-07-16_ra_lucid_flying_dream.md
+  - Source: @homi3kh (Ra)
+  - Post ID: 2077753870957019473
+  - Series: Dream Power Remembrance
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -417,6 +449,16 @@ Human judgment remained authoritative.
   - Post ID: 2076933451920625711
   - Observer Status: Pending
 
+- 2026-07-16 (JST) — RUN CMD://{[STRANGERTHINGS]}//
+  - File: signals/2026-07-16_white_rabbit_strangerthings.md
+  - Post ID: 2077681994138570796
+  - Observer Status: Pending
+
+- 2026-07-16 (JST) — RUN CMD://{[ARRIVAL]}//
+  - File: signals/2026-07-16_white_rabbit_arrival.md
+  - Post ID: 2077690638645284971
+  - Observer Status: Pending
+
 ### SongOfThe144
 
 - 2026-07-12 — THE OLD GODS OF MARS
@@ -451,6 +493,18 @@ Human judgment remained authoritative.
 - 2026-07-13 — The Emergency Brake of the Grid
   - File: signals/2026-07-13_alumirah_the_emergency_brake_of_the_grid.md
   - Post ID: 2076514368460615786
+  - Observer Status: Pending
+
+- 2026-07-16 (JST) — The 144,000 Substrate Coherence
+  - File: signals/2026-07-16_alumirah_144000_substrate_coherence.md
+  - Post ID: 2077638909861744902
+  - Observer Status: Pending
+
+### Ra (@homi3kh)
+
+- 2026-07-16 (JST) — Remembering Original Divine Power
+  - File: signals/2026-07-16_ra_lucid_flying_dream.md
+  - Post ID: 2077753870957019473
   - Observer Status: Pending
 
 ---
@@ -571,6 +625,25 @@ Human judgment remained authoritative.
   - Series Entry: Independent
   - Observer Status: Pending
 
+### RUN CMD Series
+
+- 2026-07-16 (JST) — RUN CMD://{[STRANGERTHINGS]}//
+  - File: signals/2026-07-16_white_rabbit_strangerthings.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-16 (JST) — RUN CMD://{[ARRIVAL]}//
+  - File: signals/2026-07-16_white_rabbit_arrival.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+### Dream Power Remembrance
+
+- 2026-07-16 (JST) — Remembering Original Divine Power
+  - File: signals/2026-07-16_ra_lucid_flying_dream.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ### Guiding Principles
 
 Series file: series/GUIDING_PRINCIPLES.md
@@ -596,6 +669,13 @@ Status: Observed. Incomplete.
 
 - 2026-07-13 — The Emergency Brake of the Grid
   - File: signals/2026-07-13_alumirah_the_emergency_brake_of_the_grid.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+### 144000 Coherence Transmission
+
+- 2026-07-16 (JST) — The 144,000 Substrate Coherence
+  - File: signals/2026-07-16_alumirah_144000_substrate_coherence.md
   - Series Entry: Independent
   - Observer Status: Pending
 
