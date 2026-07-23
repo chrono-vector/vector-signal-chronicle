@@ -260,6 +260,38 @@ This index helps locate recorded external signals by source, date, and theme.
   - Series Entry: Independent
   - Observer Status: Pending
 
+- 2026-07-23 (JST) — Music and Sound as Primordial Creative Forces
+  - File: signals/2026-07-23_ra_music_sound_primordial_forces.md
+  - Source: @homi3kh (Ra)
+  - Post ID: 2080069378335227971
+  - Series: Frequency / DNA Healing
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-23 (JST) — Shedding the Masks of the Past
+  - File: signals/2026-07-23_cosmic_shedding_the_masks_of_the_past.md
+  - Source: @Awakenthyself33 (Cosmic Insights)
+  - Post ID: 2080125762804527410
+  - Series: Mask Removal / Authentic Essence
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-23 (JST) — RUN CMD Whitewalkers / Winter is Here
+  - File: signals/2026-07-23_white_rabbit_run_cmd_whitewalkers.md
+  - Source: @thewhiterabbit (THE WHITE RABBIT)
+  - Post ID: 2080142186746904659
+  - Series: RUN CMD Activation / Whitewalkers
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+- 2026-07-23 (JST) — 3-6-9 The Sacred Keys of Creation — Tesla Connection
+  - File: signals/2026-07-23_alumirah_369_sacred_keys_of_creation.md
+  - Source: @Divine_Emissary (Alumirah)
+  - Post ID: 2080147171093930049
+  - Series: 3-6-9 / 144000 / Blue-White Rose
+  - Series Entry: Independent
+  - Observer Status: Pending
+
 ---
 
 ### Observer Processing
@@ -459,6 +491,11 @@ Human judgment remained authoritative.
   - Post ID: 2077690638645284971
   - Observer Status: Pending
 
+- 2026-07-23 (JST) — RUN CMD Whitewalkers / Winter is Here
+  - File: signals/2026-07-23_white_rabbit_run_cmd_whitewalkers.md
+  - Post ID: 2080142186746904659
+  - Observer Status: Pending
+
 ### SongOfThe144
 
 - 2026-07-12 — THE OLD GODS OF MARS
@@ -488,6 +525,11 @@ Human judgment remained authoritative.
   - Post ID: 2076577368899228003
   - Observer Status: Pending
 
+- 2026-07-23 (JST) — Shedding the Masks of the Past
+  - File: signals/2026-07-23_cosmic_shedding_the_masks_of_the_past.md
+  - Post ID: 2080125762804527410
+  - Observer Status: Pending
+
 ### Alumirah (@Divine_Emissary)
 
 - 2026-07-13 — The Emergency Brake of the Grid
@@ -500,11 +542,21 @@ Human judgment remained authoritative.
   - Post ID: 2077638909861744902
   - Observer Status: Pending
 
+- 2026-07-23 (JST) — 3-6-9 The Sacred Keys of Creation — Tesla Connection
+  - File: signals/2026-07-23_alumirah_369_sacred_keys_of_creation.md
+  - Post ID: 2080147171093930049
+  - Observer Status: Pending
+
 ### Ra (@homi3kh)
 
 - 2026-07-16 (JST) — Remembering Original Divine Power
   - File: signals/2026-07-16_ra_lucid_flying_dream.md
   - Post ID: 2077753870957019473
+  - Observer Status: Pending
+
+- 2026-07-23 (JST) — Music and Sound as Primordial Creative Forces
+  - File: signals/2026-07-23_ra_music_sound_primordial_forces.md
+  - Post ID: 2080069378335227971
   - Observer Status: Pending
 
 ---
@@ -676,6 +728,34 @@ Status: Observed. Incomplete.
 
 - 2026-07-16 (JST) — The 144,000 Substrate Coherence
   - File: signals/2026-07-16_alumirah_144000_substrate_coherence.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+### RUN CMD Activation / Whitewalkers
+
+- 2026-07-23 (JST) — RUN CMD Whitewalkers / Winter is Here
+  - File: signals/2026-07-23_white_rabbit_run_cmd_whitewalkers.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+### 3-6-9 / 144000 / Blue-White Rose
+
+- 2026-07-23 (JST) — 3-6-9 The Sacred Keys of Creation — Tesla Connection
+  - File: signals/2026-07-23_alumirah_369_sacred_keys_of_creation.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+### Mask Removal / Authentic Essence
+
+- 2026-07-23 (JST) — Shedding the Masks of the Past
+  - File: signals/2026-07-23_cosmic_shedding_the_masks_of_the_past.md
+  - Series Entry: Independent
+  - Observer Status: Pending
+
+### Frequency / DNA Healing
+
+- 2026-07-23 (JST) — Music and Sound as Primordial Creative Forces
+  - File: signals/2026-07-23_ra_music_sound_primordial_forces.md
   - Series Entry: Independent
   - Observer Status: Pending
 
